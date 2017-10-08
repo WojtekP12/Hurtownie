@@ -1,0 +1,78 @@
+--CREATE TABLE languages (
+--    language_id int IDENTITY(1,1) PRIMARY KEY,
+--    language_name varchar(20) NOT NULL,
+--);
+--CREATE TABLE languages_types (
+--    language_type_id int IDENTITY(1,1) PRIMARY KEY,
+--    language_type_name varchar(1) NOT NULL,
+--);
+--CREATE TABLE school (
+--    school_id int IDENTITY(1,1) PRIMARY KEY,
+--    school_name varchar(50) NOT NULL,
+--);
+--CREATE TABLE voivodeship (
+--    voivodeship_id int IDENTITY(1,1) PRIMARY KEY,
+--    voivodeship_name varchar(20) NOT NULL,
+--);
+--CREATE TABLE student (
+--    student_id int IDENTITY(1,1) PRIMARY KEY,
+--    student_name varchar(20) NOT NULL,
+--);
+--CREATE TABLE student_type (
+--    student_type_id int IDENTITY(1,1) PRIMARY KEY,
+--    student_type_name varchar(20) NOT NULL,
+--);
+--CREATE TABLE school_year (
+--    school_year_id int IDENTITY(1,1) PRIMARY KEY,
+--    school_year varchar(10) NOT NULL,
+--);
+--INSERT INTO hurtownia.dbo.languages VALUES('angielski');
+--INSERT INTO hurtownia.dbo.languages VALUES('francuski');
+--INSERT INTO hurtownia.dbo.languages VALUES('hiszpañski');
+--INSERT INTO hurtownia.dbo.languages VALUES('³acina');
+--INSERT INTO hurtownia.dbo.languages VALUES('niemiecki');
+--INSERT INTO hurtownia.dbo.languages VALUES('rosyjski');
+--INSERT INTO hurtownia.dbo.languages VALUES('w³oski');
+--INSERT INTO hurtownia.dbo.languages VALUES('inny');
+
+--INSERT INTO hurtownia.dbo.school VALUES('Gimnazjum');
+--INSERT INTO hurtownia.dbo.school VALUES('Kolegium Pracowników S³u¿b Spo³ecznych');
+--INSERT INTO hurtownia.dbo.school VALUES('Kolegium nauczycielskie');
+--INSERT INTO hurtownia.dbo.school VALUES('Liceum ogólnokszta³c¹ce w tym uzupe³.');
+--INSERT INTO hurtownia.dbo.school VALUES('Liceum profilowane');
+--INSERT INTO hurtownia.dbo.school VALUES('Nauczycielskie Kolegium Jêzyków Obcych');
+--INSERT INTO hurtownia.dbo.school VALUES('Przedszkole');
+--INSERT INTO hurtownia.dbo.school VALUES('Szko³a artystyczna');
+--INSERT INTO hurtownia.dbo.school VALUES('Szko³a podstawowa');
+--INSERT INTO hurtownia.dbo.school VALUES('Szko³a policealna');
+--INSERT INTO hurtownia.dbo.school VALUES('Technikum w tym uzupe³.');
+--INSERT INTO hurtownia.dbo.school VALUES('Zasadnicza szko³a zawodowa');
+
+--INSERT INTO hurtownia.dbo.school_year VALUES('2013/2014');
+--INSERT INTO hurtownia.dbo.school_year VALUES('2014/2015');
+--INSERT INTO hurtownia.dbo.school_year VALUES('2015/2016');
+
+--INSERT INTO hurtownia.dbo.voivodeship VALUES('Polska');
+--INSERT INTO hurtownia.dbo.voivodeship VALUES('dolnoœl¹skie');
+--INSERT INTO hurtownia.dbo.voivodeship VALUES('kujaw-pomorskie');
+--INSERT INTO hurtownia.dbo.voivodeship VALUES('lubelskie');
+--INSERT INTO hurtownia.dbo.voivodeship VALUES('lubuskie');
+--INSERT INTO hurtownia.dbo.voivodeship VALUES('³ódzkie');
+--INSERT INTO hurtownia.dbo.voivodeship VALUES('ma³opolskie');
+--INSERT INTO hurtownia.dbo.voivodeship VALUES('mazowieckie');
+--INSERT INTO hurtownia.dbo.voivodeship VALUES('opolskie');
+--INSERT INTO hurtownia.dbo.voivodeship VALUES('podkarpackie');
+--INSERT INTO hurtownia.dbo.voivodeship VALUES('podlaskie');
+--INSERT INTO hurtownia.dbo.voivodeship VALUES('pomorskie');
+--INSERT INTO hurtownia.dbo.voivodeship VALUES('œl¹skie');
+--INSERT INTO hurtownia.dbo.voivodeship VALUES('œwiêtokrzyskie');
+--INSERT INTO hurtownia.dbo.voivodeship VALUES('war-maz');
+--INSERT INTO hurtownia.dbo.voivodeship VALUES('wielkopolskie');
+--INSERT INTO hurtownia.dbo.voivodeship VALUES('zachodniopomorskie');
+
+--INSERT INTO hurtownia.dbo.languages_types VALUES('O');
+--INSERT INTO hurtownia.dbo.languages_types VALUES('D');
+
+--INSERT INTO hurtownia.dbo.student_type VALUES('Doros³y');
+--INSERT INTO hurtownia.dbo.student_type VALUES('Dziecko/M³odzie¿');
+--INSERT INTO hurtownia.dbo.student_type VALUES('Razem');
