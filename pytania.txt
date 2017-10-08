@@ -1,0 +1,13 @@
+1. Dane z 4 lat (szkolnych)
+2. Podzia³ na województwa
+3. Podzia³ na jêzyk obowi¹zkowy/dodatkowy (II jêzyk obcy)
+4. Podzia³ na jêzyk
+5. Podzia³ na kategorie szko³y
+6. Podzia³ na kategorie uczniów (doroœli i dzieci/m³odzie¿)
+
+Pytania do hurtownii:
+1. W którym roku i woj. najwiêcej doros³ych uczniów uczy³o siê jêzyka niemieckiego jako obowi¹zkowy?
+2. W którym roku w szko³ach podstawowych w Polsce jêzyka francuskiego uczy³a siê najwieksza liczba uczniów?
+3. W której kategorii szko³y w roku szkolnym 2014/2015 uczy³o siê najwiêcej doros³ych?
+4. Który jêzyk by³ najbardziej popularny jako dodatkowy w czeroletnim liceum plastycznym w woj. lubelsim?
+5. W którym roku i woj. najwiêcej uczniów jako mia³o jêzyk w³oski jako dodatkowy?
